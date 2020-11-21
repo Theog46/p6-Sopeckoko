@@ -9,4 +9,4 @@ Back end : Vous devrez installer npm et nodemon. </br>
 Front end : Lancer `ng serve` </br>
 Back end : Lancer `npm install` </br>
 
-L'application est accessible depuis `http://localhost:4200'
+L'application est accessible depuis `http://localhost:4200`
